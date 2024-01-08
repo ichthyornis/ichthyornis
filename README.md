@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @ichthyornis
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML, CSS and JS.
+
